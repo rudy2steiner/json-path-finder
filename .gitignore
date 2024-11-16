@@ -25,3 +25,5 @@ TODO.md
 *.njsproj
 *.sln
 *.sw?
+node_modules
+.idea
